@@ -5,6 +5,7 @@
 }
 
 .titulo {
+    font-size: 2.5em;
     size: 3em;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -13,5 +14,18 @@
 
 .separador {
     border: 1.em grey;
-        ;
+}
+
+.cajas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.peleas {
+
+    color: red;
+}
+
+.izquierda {
+    align-self:  ;
 }
