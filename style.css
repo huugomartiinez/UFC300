@@ -1,4 +1,17 @@
 .fondo-blanco {
    background-color: white; 
    border: 0.2em black;
+   margin: 10em;
+}
+
+.titulo {
+    size: 3em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.separador {
+    border: 1.em grey;
+        ;
 }
