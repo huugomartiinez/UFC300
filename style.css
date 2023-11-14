@@ -26,7 +26,19 @@
     color: red;
 }
 
-.
-.borde-tabla {
-    border: 0.2em black;
+
+.borde-tabla td  {
+    border: 0.01em solid black;
+    
+}
+
+.fondopeleas {
+    background-color: lightgrey;
+    border-radius: 1em;
+}
+
+.descipcion {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
 }
