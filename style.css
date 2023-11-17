@@ -1,6 +1,4 @@
 .fondo-blanco {
-    
-   border: 0.2em black;
    margin: 5em;
 }
 
@@ -12,9 +10,6 @@
 
 }
 
-.separador {
-    border: 1.em grey;
-}
 
 .cajas {
     display: grid;
@@ -22,7 +17,6 @@
 }
 
 .peleas {
-
     color: red;
 }
 
@@ -33,7 +27,7 @@
 }
 
 .fondopeleas {
-    background-color: rgb(163, 228, 247);
+    background-color: rgb(255, 255, 255);
     border-radius: 1em;
 }
 
@@ -44,5 +38,4 @@
 }
 
 .margen {
-    background-color: rgb(181, 178, 178);
 }
