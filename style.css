@@ -1,7 +1,7 @@
 .fondo-blanco {
-   background-color: white; 
+    
    border: 0.2em black;
-   margin: 10em;
+   margin: 5em;
 }
 
 .titulo {
@@ -18,7 +18,7 @@
 
 .cajas {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
 .peleas {
@@ -33,7 +33,7 @@
 }
 
 .fondopeleas {
-    background-color: lightgrey;
+    background-color: rgb(163, 228, 247);
     border-radius: 1em;
 }
 
@@ -41,4 +41,8 @@
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     color: black;
+}
+
+.margen {
+    background-color: rgb(181, 178, 178);
 }
